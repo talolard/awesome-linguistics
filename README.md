@@ -27,9 +27,4 @@ A much broader list and description of each subfield is given [here](https://lin
 This repository is organized as follows:
 
 * [Blogs](Blogs.md)
-* [Books](Books.md)
-* [Corpora](Corpora.md)
-* [Courses](Courses.md)
-* [Datasets](Datasets.md)
-* [Papers](Papers.md)
 
