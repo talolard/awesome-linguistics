@@ -20,7 +20,7 @@ may do at these places, one can list some of the subfields as follows:
 |**street**       |Socio Linguistics                                                |
 
 
-**Note** - The categories, by no means, are mutually exclusive.
+**Note** - The sub-categories are neither mutually exclusive nor exhaustive.
 
 A much broader list and description of each subfield is given [here](https://linguistlist.org/LL/LingSubfields.cfm)
 
