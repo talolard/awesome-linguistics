@@ -1,5 +1,10 @@
-Awesome Linguistics
+Table of Contents 
 ===================
+- [Awesome Linguistics](#)
+
+
+## Awesome Linguistics
+----------------------
 This repository like many other awesome* repositories on github
 is a curated list of all material related to linguistics.
 
