@@ -1,8 +1,9 @@
 Table of Contents 
 ===================
-- [Awesome Linguistics](#)
+- [Awesome Linguistics](#intro)
+- [Organization](#organization)
 
-
+<a name="intro" />
 ## Awesome Linguistics
 ----------------------
 This repository like many other awesome* repositories on github
@@ -29,7 +30,9 @@ may do at these places, one can list some of the subfields as follows:
 
 A much broader list and description of each subfield is given [here](https://linguistlist.org/LL/LingSubfields.cfm)
 
+<a name="intro" />
+## Content Organization
+------------------------
 This repository is organized as follows:
 
 * [Blogs](Blogs.md)
-
