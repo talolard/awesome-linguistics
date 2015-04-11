@@ -1,7 +1,7 @@
 Table of Contents 
 ===================
 - [Awesome Linguistics](#intro)
-- [Organization](#organization)
+- [Content Organization](#organization)
 
 <a name="intro" />
 ## Awesome Linguistics
