@@ -5,7 +5,7 @@ Table of Contents
 
 <a name="intro" />
 ## Awesome Linguistics
-----------------------
+
 This repository like many other awesome* repositories on github
 is a curated list of all material related to linguistics.
 
@@ -32,7 +32,7 @@ A much broader list and description of each subfield is given [here](https://lin
 
 <a name="intro" />
 ## Content Organization
-------------------------
+
 This repository is organized as follows:
 
 * [Blogs](Blogs.md)
